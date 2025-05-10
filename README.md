@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Abhay Sharma!
-🎓 Pursuing B.Tech in Computer Science and Engineering (CSE).
-💻 Passionate about Java Development and Data Analytics.
-🌱 Constantly learning and exploring the intersection of coding and data.
-🚀 Aspiring to create impactful solutions using technology.
+-👋 Hi, I'm Abhay Sharma!
+-🎓 Pursuing B.Tech in Computer Science and Engineering (CSE).
+-💻 Passionate about Java Development and Data Analytics.
+-🌱 Constantly learning and exploring the intersection of coding and data.
+-🚀 Aspiring to create impactful solutions using technology.
 
 Let's connect and collaborate on exciting projects! ✨
