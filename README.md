@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 -🚀 Aspiring to create impactful solutions using technology.
 
 Let's connect and collaborate on exciting projects! ✨
+
+
+
+![snake gif](https://github.com/AbhaySharma3666/AbhaySharma3666/blob/output/github-contribution-grid-snake.svg)
