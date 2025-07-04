@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 Let's connect and collaborate on exciting projects! ✨
 
-## Snke eating my contribution graph
+## Snake eating my contribution graph
 ![snake gif](https://github.com/AbhaySharma3666/AbhaySharma3666/blob/output/github-contribution-grid-snake.gif)
