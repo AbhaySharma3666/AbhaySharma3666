@@ -90,23 +90,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
 
-## 🐍 **Snake eating my contribution graph**
-
-<img src="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/snake.svg" width = 1500 alt="Snake animation" />
-
-####
-<!-- Coloured Lines -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
-</p>
-
 <br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg">
-</picture>
+## **Pac-Man eating my contribution graph**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
 
 <!-- Coloured Lines -->
 ####
