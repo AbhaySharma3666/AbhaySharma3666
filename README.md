@@ -90,8 +90,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
 
-<br clear="both">
-
 ##   **Pac-Man eating my contribution graph**
 
 <div align="center">
