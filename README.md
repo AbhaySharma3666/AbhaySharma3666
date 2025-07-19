@@ -91,7 +91,9 @@
 </p>
 
 <br clear="both">
-## **Pac-Man eating my contribution graph**
+
+##   **Pac-Man eating my contribution graph**
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph-dark.svg">
