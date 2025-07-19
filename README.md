@@ -13,7 +13,11 @@
 - 📫 Reach me at **goluabhaysharma@gmail.com**  
 - ⚡ Fun fact: *I’m crazy about learning new technologies!*  
 
----
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 📌 **My Projects**
 👨‍💻 Check out all my projects here: [My GitHub Repositories](https://github.com/AbhaySharma3666?tab=repositories)
@@ -33,7 +37,11 @@
   </a>
 </p>
 
----
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 🛠️ **Languages and Tools**
 
@@ -61,7 +69,11 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
----
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 📊 **GitHub Stats**
 
@@ -72,7 +84,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666" alt="GitHub Streak" />
 </p>
 
----
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 🐍 **Snake eating my contribution graph**
 
@@ -80,9 +96,9 @@
 
 ####
 <!-- Coloured Lines -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 <br clear="both">
 
@@ -93,9 +109,11 @@
 </picture>
 
 <!-- Coloured Lines -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 
 
