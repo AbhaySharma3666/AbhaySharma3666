@@ -78,7 +78,24 @@
 
 <img src="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/snake.svg" width = 1500 alt="Snake animation" />
 
----
+####
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbhaySharma3666/AbhaySharma3666/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 
 
