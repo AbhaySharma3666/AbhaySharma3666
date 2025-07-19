@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
-<h3 align="center">A passionate Java Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia" alt="Trophies" />
-</p>
+<h2 align="center">👨‍💻 Tech enthusiast from India | Passionate about learning new skills and exploring cutting-edge technologies 🚀</h2>
+<h2 align="center">Currently I am learning DSA in JAVA.<img src="https://skillicons.dev/icons?i=java" height="30" alt="Java logo"  /> </h2>
 
 - 🎓 I’m pursuing a **B.Tech in Computer Science and Engineering (CSE)**  
 - 💻 I’m passionate about **Java Development, Android (React Native)**, and **Data Analytics**  
@@ -19,6 +16,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia" alt="Trophies" />
+</p>
+
+####
+<!-- Coloured Lines -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 📌 **My Projects**
 👨‍💻 Check out all my projects here: [My GitHub Repositories](https://github.com/AbhaySharma3666?tab=repositories)
@@ -81,13 +87,9 @@
 </p>
 
 ## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&show_icons=true&locale=en" alt="AbhaySharma3666's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=radical&hide_border=false" height="220" alt="streak graph"  />
+</div>
 
 ####
 <!-- Coloured Lines -->
