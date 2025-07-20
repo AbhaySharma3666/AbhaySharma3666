@@ -76,13 +76,9 @@
 </p>
 
 ## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&show_icons=true&locale=en" alt="AbhaySharma3666's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=radical&hide_border=false" height="220" alt="streak graph"  />
+</div>
 
 ####
 <!-- Coloured Lines -->
