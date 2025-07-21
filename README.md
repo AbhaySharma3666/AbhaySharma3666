@@ -22,7 +22,9 @@
 ## 📌 **My Projects**
 👨‍💻 Check out all my projects here: [My GitHub Repositories](https://github.com/AbhaySharma3666?tab=repositories)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
 
 ## 🌐 **Connect with me**
 <p align="left">
@@ -77,7 +79,9 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=radical&hide_border=false" height="220" alt="streak graph"  />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=radical&hide_border=false" height="220" alt="streak graph"  /> -->
+<img src="https://streak-stats.demolab.com/?user=AbhaySharma3666&theme=github-dark" alt="GitHub Streak" />
+
 </div>
 
 ####
