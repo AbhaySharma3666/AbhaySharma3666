@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">A passionate Java Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia" alt="Trophies" />
-</p>
-
 - 🎓 I’m pursuing a **B.Tech in Computer Science and Engineering (CSE)**  
 - 💻 I’m passionate about **Java Development, Android (React Native)**, and **Data Analytics**  
 - 🌱 Currently learning **Web Development with Spring Boot**  
@@ -75,6 +71,9 @@
 <!-- Coloured Lines -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia" alt="Trophies" />
 </p>
 
 ## 📊 **GitHub Stats**
