@@ -90,8 +90,18 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=radical&hide_border=false" height="220" alt="streak graph"  />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhaySharma3666&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaySharma3666&theme=chartreuse-dark&hide_border=true&layout=compact" alt="Top Languages" />
+
 </div>
+
 
 ####
 <!-- Coloured Lines -->
