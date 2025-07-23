@@ -15,6 +15,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
 
+## 📚 Currently Working On
+- 🌱 Learning Spring Security & JWT Authentication
+- 💼 Building an Expense Tracker App using React Native + Firebase
+- 📊 Solving Data Structures and Algorithms on LeetCode (Python & Java)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
+</p>
+
 ## 📌 **My Projects**
 👨‍💻 Check out all my projects here: [My GitHub Repositories](https://github.com/AbhaySharma3666?tab=repositories)
 
@@ -72,9 +81,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
+
 
 ## 📊 **GitHub Stats**
 <div align="center">
