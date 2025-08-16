@@ -94,9 +94,6 @@
 ## 📊 **GitHub Stats**
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=AbhaySharma3666&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
