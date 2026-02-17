@@ -5,7 +5,7 @@
 - 💻 I’m passionate about **Java Development, Android (React Native)**, and **Data Analytics**  
 - 🌱 Currently learning **Web Development with Spring Boot**  
 - 🚀 I love exploring new technologies and constantly expanding my skill set  
-- 💬 Ask me about **Java, Android (React Native), Databases**  
+- 💬 Ask me about **Java, SpringBoot, Android (React Native), Databases**  
 - 📫 Reach me at **goluabhaysharma@gmail.com**  
 - ⚡ Fun fact: *I’m crazy about learning new technologies!*  
 
