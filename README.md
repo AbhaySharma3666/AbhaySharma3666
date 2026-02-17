@@ -18,7 +18,7 @@
 ## 📚 Currently Working On
 - 🌱 Learning Spring Security & JWT Authentication
 - 💼 Building an Expense Tracker App using React Native + Firebase
-- 📊 Solving Data Structures and Algorithms on LeetCode (Python & Java)
+- 📊 Solving Data Structures and Algorithms on LeetCode (Java)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
