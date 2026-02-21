@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
-<h3 align="center">A passionate Java Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Java Developer and Data Analytics from India 🇮🇳</h3>
 
 - 🎓 I’m pursuing a **B.Tech in Computer Science and Engineering (CSE)**  
 - 💻 I’m passionate about **Java Development, Android (React Native)**, and **Data Analytics**  
