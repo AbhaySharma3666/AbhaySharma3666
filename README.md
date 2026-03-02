@@ -24,8 +24,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
 </p>
 
-## 📌 **My Projects**
-👨‍💻 Check out all my projects here: [My GitHub Repositories](https://github.com/AbhaySharma3666?tab=repositories)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width:100%; height:auto;" alt="Colorful Divider" />
