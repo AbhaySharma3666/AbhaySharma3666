@@ -234,9 +234,15 @@ https://github.com/AbhaySharma3666/Company-Sales-Insights
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" 
+height="180em" 
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaySharma3666&theme=tokyonight&hide_border=true" width="48%" />
+<img 
+src="https://github-readme-streak-stats.herokuapp.com?user=AbhaySharma3666&theme=github-dark-blue&hide_border=true&border_radius=10" 
+height="180em" 
+/>
 
 </p>
 
@@ -245,7 +251,12 @@ https://github.com/AbhaySharma3666/Company-Sales-Insights
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaySharma3666&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaySharma3666&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" 
+height="180em" 
+/>
+
 </p>
 
 ---
@@ -253,7 +264,12 @@ https://github.com/AbhaySharma3666/Company-Sales-Insights
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=AbhaySharma3666&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" 
+width="100%" 
+/>
+
 </p>
 
 ---
@@ -261,7 +277,13 @@ https://github.com/AbhaySharma3666/Company-Sales-Insights
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+<img 
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+alt="Snake animation" 
+width="100%" 
+/>
+
 </p>
 
 ---
