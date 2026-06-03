@@ -33,6 +33,7 @@
 
 # 🧠 Technical Expertise
 
+```yml
 ## 🚀 Backend Engineering
 
 - Java & Spring Boot
@@ -63,7 +64,7 @@
 - PostgreSQL
 - MySQL
 - MongoDB
-
+```
 ---
 
 # 🌱 Currently Exploring
