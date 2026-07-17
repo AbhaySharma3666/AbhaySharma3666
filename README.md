@@ -246,12 +246,6 @@ Data Analytics:
   - Python Analytics
   - Dashboard Design
   - Business Intelligence
-
-Mobile Development:
-  - React Native
-  - Redux
-  - Responsive UI
-  - API Integration
 ```
 
 ---
