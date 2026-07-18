@@ -126,6 +126,31 @@ Learning:
 </td>
 </tr>
 
+<tr>
+<td>🍔 Foodies – Full Stack Food Ordering System</td>
+<td>Full-stack food ordering application featuring a customer-facing ordering platform, dedicated admin panel for managing food items and orders, and a backend REST API for handling application data and business operations.</td>
+<td>
+
+`React.js` `Java` `Spring Boot` `REST API` `Database`
+
+</td>
+<td>
+
+<a href="https://github.com/AbhaySharma3666/foodies_panel">
+<img src="https://img.shields.io/badge/User_Panel-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbhaySharma3666/foodies_adminpanel">
+<img src="https://img.shields.io/badge/Admin_Panel-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbhaySharma3666/Food_Order_API">
+<img src="https://img.shields.io/badge/Backend_API-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
 </table>
 
 ---
@@ -133,24 +158,72 @@ Learning:
 # 📊 Data Analytics Projects
 
 <table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Repository</th>
-</tr>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Repository</th>
+  </tr>
 
-<tr>
-<td>📉 Customer Churn Analysis</td>
-<td>Business analytics project focused on customer retention insights, churn analysis, KPI reporting, and data-driven decision making.</td>
+  <tr>
+<td>🤖 AI-Powered Sales Forecasting Dashboard</td>
+<td>End-to-end sales analytics and forecasting solution combining historical sales analysis, interactive Power BI dashboards, and machine learning to predict future sales trends and support data-driven business decisions.</td>
 <td>
 
-`Python` `Pandas` `NumPy` `Power BI` `Matplotlib`
+`Power BI` `SQL` `Python` `Machine Learning`
 
 </td>
 <td>
 
-<a href="https://github.com/AbhaySharma3666/Customer_Churn_Analysis">
+<a href="https://github.com/AbhaySharma3666/AI_Powered_Sales_Forecasting_Dashboard">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+  <tr>
+    <td>📉 Customer Churn Analysis</td>
+    <td>Business analytics project focused on customer retention insights, churn analysis, KPI reporting, and data-driven decision making.</td>
+    <td>
+
+`Python` `Pandas` `NumPy` `Power BI` `Matplotlib`
+
+  </td>
+  <td>
+    <a href="https://github.com/AbhaySharma3666/Customer_Churn_Analysis">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+<tr>
+<td>📊 Investment Behavior Analysis Dashboard</td>
+<td>Interactive Power BI dashboard analyzing investor behavior, investment preferences, savings objectives, investment duration, monitoring frequency, and financial information sources.</td>
+<td>
+
+`Power BI` `Power Query` `DAX` `CSV`
+
+</td>
+<td>
+
+<a href="https://github.com/AbhaySharma3666/Investment_Data_Analysis">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>📱 Mobile Sales Analysis Dashboard</td>
+<td>Interactive Power BI dashboard analyzing mobile sales performance, brand and model trends, city-wise revenue, customer ratings, payment methods, and time-based sales patterns.</td>
+<td>
+
+`Power BI` `Excel` `DAX` `Power Query`
+
+</td>
+<td>
+
+<a href="https://github.com/AbhaySharma3666/Mobile_Sale_Analysis">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
