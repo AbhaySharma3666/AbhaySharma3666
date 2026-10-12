@@ -328,10 +328,6 @@ Data Analytics:
 # 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.shion.dev/api?username=abhaysharma3666&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  
-  <br/>
   
   <img src="https://streak-stats.demolab.com/?user=abhaysharma3666&theme=dark&hide_border=false" />
   
