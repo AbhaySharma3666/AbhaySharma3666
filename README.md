@@ -1,336 +1,242 @@
-<div align="center">
+ <div align="center">
 
-# Hi 👋, I'm Abhay Sharma
+# Abhay Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Data+Analyst+%26+Problem+Solver;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Power+BI;Turning+Data+Into+Business+Insights+🚀" />
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Data+Analyst+%26+Problem+Solver;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Kafka+%7C+Redis+%7C+Power+BI;Turning+Data+Into+Business+Insights+🚀" /> -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbhaySharma3666&label=Profile%20Views&color=0e75b6&style=flat" />
+### Java Backend Developer | Full-Stack Developer | Data Analytics
 
-<img src="https://img.shields.io/github/followers/AbhaySharma3666?label=Followers&style=social" />
+Building reliable backend systems and transforming data into actionable insights.
 
-<img src="https://img.shields.io/github/stars/AbhaySharma3666?affiliations=OWNER&style=social" />
-
+<p>
+  <a href="https://github.com/AbhaySharma3666">
+    <img src="https://img.shields.io/badge/GitHub-AbhaySharma3666-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhay-sharma-3666/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/AbhaySharma3666?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-2F855A?style=flat-square&logo=github" />
+  </a>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%26+Spring+Boot;REST+APIs+%26+Backend+Engineering;SQL+%26+Power+BI+Analytics;Learning+System+Design+%26+Cloud" alt="Developer specialties" />
+
 </div>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-🎓 **B.Tech in Computer Science & Engineering (2026)**
+I'm a Computer Science and Engineering graduate focused on Java backend development, full-stack application development, and data analytics.
 
-💻 Passionate about:
+- 🎓 B.Tech in Computer Science & Engineering, 2026
+- 📚 Currently pursuing the **PGCP-AC program at CDAC**
+- ☕ Developing backend applications with Java and Spring Boot
+- 🔌 Building REST APIs and database-driven applications
+- 📊 Creating interactive dashboards using Power BI, SQL, and Python
+- 🚀 Exploring system design, distributed systems, and cloud technologies
 
-- ⚡ Java Backend Development
-- 🏗️ System Design & Microservices
-- 📊 Data Analytics & Visualization
-- 🚀 Real-Time Distributed Systems
-- ☁️ Cloud & Scalable Architectures
-
----
-
-# 🧠 Technical Expertise
-
-```yml
-## 🚀 Backend Engineering
-
-- Java & Spring Boot
-- REST APIs & Microservices
-- Kafka Event Streaming
-- Redis Caching
-- JWT Authentication
-- WebSocket Communication
+I enjoy solving practical problems, designing maintainable applications, and learning through hands-on projects.
 
 ---
 
-## 📊 Data Analytics
+## Technical Skills
 
-- SQL & Database Design
-- Power BI Dashboards
-- Excel Analytics
-- Python Data Analysis
-- Data Cleaning & Visualization
-- KPI & Business Reporting
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Backend Development
 
-## ⚙️ Tools & Platforms
+- Java
+- Spring Boot
+- REST APIs
+- Spring Security & JWT
+- Microservices fundamentals
+- Kafka & Redis
+- WebSocket
 
-- Docker
-- Git & GitHub
-- Firebase
-- PostgreSQL
+</td>
+<td width="50%" valign="top">
+
+### Data Analytics
+
+- SQL
+- Power BI
+- Python
+- Pandas & NumPy
+- Excel
+- Data Cleaning & EDA
+- DAX & Power Query
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
+
+- React.js
+- React Native
+- JavaScript
+- HTML & CSS
+
+</td>
+<td width="50%" valign="top">
+
+### Databases & Tools
+
 - MySQL
+- PostgreSQL
 - MongoDB
-```
----
+- Git & GitHub
+- Maven
+- Docker
+- Firebase
 
-# 🌱 Currently Exploring
-
-
-Learning:
-  - Spring Security
-  - Docker & Kubernetes
-  - AWS Cloud
-  - CI/CD Pipelines
-  - Advanced System Design
-  - Distributed Systems
-
+</td>
+</tr>
+</table>
 
 ---
-# 🚀 Featured Projects
 
-# ☕ Java Backend Projects
+## Featured Projects
+
+### ☕ Backend & Full-Stack Engineering
 
 <table>
 <tr>
 <th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Repository</th>
+<th>Overview</th>
+<th>Technologies</th>
 </tr>
-
 <tr>
-<td>🚌 Real-Time GPS Bus Tracking System</td>
-<td>Production-grade backend system for live GPS tracking, ETA prediction, Kafka event streaming, and Redis-based real-time processing.</td>
 <td>
 
-`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `WebSocket`
+**[🚌 Real-Time Bus Tracking](https://github.com/AbhaySharma3666/bus_tracking_backend)**
 
 </td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/bus_tracking_backend">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
+<td>Backend project focused on GPS tracking, route processing, real-time updates, and bus location management.</td>
+<td>Java, Spring Boot, Kafka, Redis, PostgreSQL, WebSocket</td>
 </tr>
-
 <tr>
-<td>📇 Smart Contact Manager</td>
-<td>Secure contact management application with JWT authentication, role-based authorization, and dashboard management.</td>
 <td>
 
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL`
+**[📇 Smart Contact Manager](https://github.com/AbhaySharma3666/SmartContactManager)**
 
 </td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/SmartContactManager">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
+<td>Contact management application with authentication, contact CRUD operations, and dashboard features.</td>
+<td>Java, Spring Boot, Spring Security, JWT, MySQL</td>
 </tr>
-
 <tr>
-<td>🍔 Foodies – Full Stack Food Ordering System</td>
-<td>Full-stack food ordering application featuring a customer-facing ordering platform, dedicated admin panel for managing food items and orders, and a backend REST API for handling application data and business operations.</td>
 <td>
 
-`React.js` `Java` `Spring Boot` `REST API` `Database`
+**Foodies — Food Ordering System**
 
 </td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/foodies_panel">
-<img src="https://img.shields.io/badge/User_Panel-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AbhaySharma3666/foodies_adminpanel">
-<img src="https://img.shields.io/badge/Admin_Panel-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AbhaySharma3666/Food_Order_API">
-<img src="https://img.shields.io/badge/Backend_API-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
+<td>Full-stack food ordering project with customer-facing features, an admin panel, and a backend API.</td>
+<td>React.js, Java, Spring Boot, REST APIs</td>
 </tr>
-
 </table>
 
----
+**Foodies repositories:** [User Panel](https://github.com/AbhaySharma3666/foodies_panel) · [Admin Panel](https://github.com/AbhaySharma3666/foodies_adminpanel) · [Backend API](https://github.com/AbhaySharma3666/Food_Order_API)
 
-# 📊 Data Analytics Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Repository</th>
-  </tr>
-
-  <tr>
-<td>🤖 AI-Powered Sales Forecasting Dashboard</td>
-<td>End-to-end sales analytics and forecasting solution combining historical sales analysis, interactive Power BI dashboards, and machine learning to predict future sales trends and support data-driven business decisions.</td>
-<td>
-
-`Power BI` `SQL` `Python` `Machine Learning`
-
-</td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/AI_Powered_Sales_Forecasting_Dashboard">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-  <tr>
-    <td>📉 Customer Churn Analysis</td>
-    <td>Business analytics project focused on customer retention insights, churn analysis, KPI reporting, and data-driven decision making.</td>
-    <td>
-
-`Python` `Pandas` `NumPy` `Power BI` `Matplotlib`
-
-  </td>
-  <td>
-    <a href="https://github.com/AbhaySharma3666/Customer_Churn_Analysis">
-      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </td>
-</tr>
-<tr>
-<td>📊 Investment Behavior Analysis Dashboard</td>
-<td>Interactive Power BI dashboard analyzing investor behavior, investment preferences, savings objectives, investment duration, monitoring frequency, and financial information sources.</td>
-<td>
-
-`Power BI` `Power Query` `DAX` `CSV`
-
-</td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/Investment_Data_Analysis">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>📱 Mobile Sales Analysis Dashboard</td>
-<td>Interactive Power BI dashboard analyzing mobile sales performance, brand and model trends, city-wise revenue, customer ratings, payment methods, and time-based sales patterns.</td>
-<td>
-
-`Power BI` `Excel` `DAX` `Power Query`
-
-</td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/Mobile_Sale_Analysis">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>📈 Sales Insight Dashboard</td>
-<td>Interactive Power BI dashboard providing revenue analytics, regional sales insights, KPI tracking, and executive-level reporting.</td>
-<td>
-
-`Power BI` `SQL` `Excel` `Python`
-
-</td>
-<td>
-
-<a href="https://github.com/AbhaySharma3666/Company-Sales-Insights">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-</table>
-
----
-
-# 📱 React Native Projects
+### 📊 Data Analytics & Business Intelligence
 
 <table>
 <tr>
 <th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
+<th>Overview</th>
+<th>Technologies</th>
 </tr>
-
 <tr>
-<td>📰 React Native News App</td>
-<td>Modern mobile news application with category filtering, search functionality, dark mode, Redux integration, and real-time API fetching.</td>
 <td>
 
-`React Native` `Redux` `News API`
+**[🤖 AI-Powered Sales Forecasting](https://github.com/AbhaySharma3666/AI_Powered_Sales_Forecasting_Dashboard)**
 
 </td>
+<td>Sales analysis, interactive reporting, and machine-learning-based sales forecasting.</td>
+<td>Power BI, SQL, Python, Machine Learning</td>
 </tr>
-
 <tr>
-<td>✅ Advanced Todo App</td>
-<td>Animated Todo application featuring local storage, task categorization, theme switching, and modern mobile UI design.</td>
 <td>
 
-`React Native` `AsyncStorage`
+**[📉 Customer Churn Analysis](https://github.com/AbhaySharma3666/Customer_Churn_Analysis)**
 
 </td>
+<td>Customer retention analysis, churn patterns, and business insights.</td>
+<td>Python, Pandas, NumPy, Power BI</td>
 </tr>
+<tr>
+<td>
 
+**[📈 Company Sales Insights](https://github.com/AbhaySharma3666/Company-Sales-Insights)**
+
+</td>
+<td>Sales performance analysis, regional revenue insights, and KPI reporting.</td>
+<td>Power BI, SQL, Excel, Python</td>
+</tr>
+<tr>
+<td>
+
+**[📱 Mobile Sales Analysis](https://github.com/AbhaySharma3666/Mobile_Sale_Analysis)**
+
+</td>
+<td>Brand-wise sales, city-level performance, customer ratings, and payment trends.</td>
+<td>Power BI, Excel, DAX, Power Query</td>
+</tr>
+<tr>
+<td>
+
+**[💹 Investment Behavior Analysis](https://github.com/AbhaySharma3666/Investment_Data_Analysis)**
+
+</td>
+<td>Interactive dashboard exploring investor preferences, financial goals, and investment patterns.</td>
+<td>Power BI, DAX, Power Query</td>
+</tr>
 </table>
+
+### 📱 Mobile Development
+
+| Project | Description | Technologies |
+|---|---|---|
+| News App | Category-based news browsing, search, and theme switching | React Native, Redux, News API |
+| Advanced Todo App | Task management with categorization and local persistence | React Native, AsyncStorage |
 
 ---
 
-# 🏆 Project Highlights
+## Currently Learning
+
+- Spring Security and backend application security
+- Docker and Kubernetes
+- AWS and cloud deployment
+- CI/CD pipelines
+- Advanced system design and distributed systems
+- Data structures and algorithms
+
+---
+
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhaySharma3666&theme=github_dark" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhaySharma3666&theme=github_dark" alt="GitHub profile contribution summary" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhaySharma3666&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaySharma3666&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AbhaySharma3666&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-# ⚡ Engineering Focus
-
-```yaml
-Backend Development:
-  - Spring Boot
-  - REST APIs
-  - Kafka
-  - Redis
-  - Microservices
-  - WebSocket
-
-Data Analytics:
-  - Power BI
-  - SQL
-  - Python Analytics
-  - Dashboard Design
-  - Business Intelligence
-```
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building scalable backend systems
-- 📊 Creating data-driven dashboards
-- ⚡ Learning distributed systems
-- ☁️ Exploring cloud deployment
-- 🧠 Improving system design skills
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhaysharma3666&theme=dark&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhaysharma3666&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
 
----
+### Let's Connect
+
+Open to learning opportunities, collaborative projects, and discussions about Java development, backend engineering, and data analytics.
+
+**[GitHub](https://github.com/AbhaySharma3666) · [LinkedIn](https://www.linkedin.com/in/abhay-sharma-3666/)**
+
+</div>
