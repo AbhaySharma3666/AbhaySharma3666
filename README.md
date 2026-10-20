@@ -18,7 +18,7 @@ Building reliable backend systems and transforming data into actionable insights
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%26+Spring+Boot;REST+APIs+%26+Backend+Engineering;SQL+%26+Power+BI+Analytics;Learning+System+Design+%26+Cloud" alt="Developer specialties" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%26+Spring+Boot;REST+APIs+%26+Backend+Engineering;SQL+%26+Power+BI+Analytics;Learning+System+Design" alt="Developer specialties" />
 
 </div>
 
